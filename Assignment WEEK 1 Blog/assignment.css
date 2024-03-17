@@ -1,0 +1,35 @@
+h1{
+    text-shadow: 5px 5px 10px black; color: rgb(80, 78, 78);  margin-left: 15px; font-style:normal
+}
+#firstimg{
+    margin: 0px; padding: 0px; height: 550px  ; width: 1500px;
+}
+h3{
+    color: darkslategrey;
+    
+}
+#ol1{
+    text-decoration: none; color: black;
+}
+h2{
+    text-shadow: 5px 5px 10px black; color: rgb(80, 78, 78);
+}
+#thirdimg{
+    margin-left: 150px;
+}
+#video1{
+    margin-left: 120px;
+}
+#ul1{
+    list-style-type: square;
+}
+#imgfour{
+    
+    margin-inline: 110px;
+}
+#table1{font-size: larger;  height: 400px; width: 700px;border: 2px;
+}
+#div1{
+    text-align: center; background-color: cadetblue;
+}
+
